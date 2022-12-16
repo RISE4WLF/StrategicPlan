@@ -1,7 +1,7 @@
 # The Comprehensive Strategic Document
 An Encyclopedia of theories, strategies, and legislations for the Woman-Life-Freedom revolution
 
-Let's start from [here](/Polistest.html)
+Let's start from [here](/strategicplan/polistest.html)
 
 
 
