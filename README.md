@@ -3,5 +3,7 @@ An Encyclopedia of theories, strategies, and legislations for the Woman-Life-Fre
 
 Let's start from [here](/StrategicPlan/polistest.html)
 
+test conversation [here](/StrategicPlan/conversations.html)
+
 
 
